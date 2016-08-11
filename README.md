@@ -1,6 +1,45 @@
 Pack 150, Chagrin Falls, Ohio
 ============
 
+## Development
+**tldr:** Run a current version of Ruby, install the `bundler` gem and run `jekyll` via `bundle exec`.
+
+This site runs on Github Pages, which uses [Jekyll](http://jekyllrb.com). Jekyll is a Ruby gem.
+Best way to start installing things on a Mac is with [Homebrew](http://brew.sh). Once homebrew
+is installed, install `rbenv` and `ruby-build` to manage your version of Ruby.
+```
+$ brew update
+$ brew install rbenv ruby-build
+```
+This installs `rbenv`. To setup your shell to use `rbenv`'s Ruby, place
+`eval "$(rbenv init -)"` in your shell files. Check the (instructions)[https://github.com/sstephenson/rbenv#homebrew-on-mac-os-x]
+for more info.
+
+Now, you need to install the correct version of Ruby. From the site directory, run the following.
+```
+$ rbenv install `cat .ruby-version`
+$ rbenv rehash
+```
+You can double check the version by doing one of the following:
+```
+$ ruby -v
+$ rvenv versions
+```
+
+Now, install `bundler`, a ruby gem/package manager. Install `bundler` and the necessary gems, including `jekyll` by doing:
+```
+$ gem install bundler
+$ bundle install
+```
+
+Bundler uses the `Gemfile` and `Gemfile.lock` files to list dependencies.
+
+Done! You can run the site locally with the following command:
+```
+$ bundle exec jekyll serve
+```
+
+
 This is is based on [Solid-Jekyll](https://github.com/st4ple/solid-jekyll), a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/).
 
 [Fork this repository](https://github.com/Pack150/Pack150.github.io/fork) if you like!
