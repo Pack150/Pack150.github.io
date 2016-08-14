@@ -1,20 +1,42 @@
-<div id="footerwrap">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4">
-                <h4>About</h4>
-                <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Our Chartered Organization</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
-            </div>
-        </div><! --/row -->
-    </div><! --/container -->
-</div><! --/footerwrap -->
+<footer>
+
+  <div class="footer-third">
+    <div id="tertiary" class="sidebar-container footer" role="complementary">
+      <div class="sidebar-inner">
+        <div class="widget-area">
+          <h3>Our Chartered Organization</h3>
+          The Federated Church / Chagrin Falls, Ohio
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-third">
+    <div id="footer-middle-sidebar" class="sidebar-container footer" role="complementary">
+      <div class="sidebar-inner">
+        <div class="widget-area">&nbsp;</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-third">
+    <img id="footer-prepared" src="/images/prepared_standard_rev.gif" alt="Do Your Best!">
+  </div>
+
+  <div class="clear-both"></div>
+
+</footer>
+
+<div id="credit-left">
+  &copy; 2016 {{site.title}} - <a href="http://www.scouting.org/">Boy Scouts of America</a>
+</div>
+
+<div id="credit">
+  Powered By <a href="https://pages.github.com">Github Pages</a> | <a href="http://www.handsomeweb.com/cubscouts/">Based on ScoutPack WordPress theme</a>
+</div>
+
+<script>
+  jQuery(document).ready(function($){
+    jQuery(".flexnav").flexNav({ 'animationSpeed' : 50, 'calcItemWidths': true, 'hoverIntent': true, 'hoverIntentTimeout': 25, 'hover': true });
+  });
+</script>
