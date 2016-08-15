@@ -36,3 +36,5 @@ dist
 node_modules
 .tmp
 .jekyll
+.sass-cache
+.jekyll-metadata
