@@ -10,6 +10,7 @@ title: Pack 150
 subtitle: Scouting's values through fun and experience
 email: info@pack150.org
 description: "Pack 150 in Chagrin Falls, Ohio is a Cub Scout pack that believes in the Scouting program."
+repository: Pack150/Pack150.github.io
 baseurl: ""
 url: "http://Pack150.org"
 safe: true

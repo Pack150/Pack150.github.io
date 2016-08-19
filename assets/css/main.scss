@@ -60,11 +60,11 @@ table {border-collapse:collapse;border-spacing:0;}
 	 ------------------------------------------------------*/
 @font-face {
     font-family: 'marcellusregular';
-    src: url('/fonts/marcellus-regular-webfont.eot');
-    src: url('/fonts/marcellus-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/marcellus-regular-webfont.woff') format('woff'),
-         url('/fonts/marcellus-regular-webfont.ttf') format('truetype'),
-         url('/fonts/marcellus-regular-webfont.svg#marcellusregular') format('svg');
+    src: url('/assets/fonts/marcellus-regular-webfont.eot');
+    src: url('/assets/fonts/marcellus-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/marcellus-regular-webfont.woff') format('woff'),
+         url('/assets/fonts/marcellus-regular-webfont.ttf') format('truetype'),
+         url('/assets/fonts/marcellus-regular-webfont.svg#marcellusregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -73,7 +73,7 @@ table {border-collapse:collapse;border-spacing:0;}
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
         font-family: 'marcellusregular';
-            src: url('./fonts/marcellus-regular-webfont.svg#marcellusregular') format('svg');
+            src: url('/assets/fonts/marcellus-regular-webfont.svg#marcellusregular') format('svg');
     }
 }
 
