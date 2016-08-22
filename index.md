@@ -14,6 +14,6 @@ racing a Pinewood Derby car and more! All of this is done with
 the Pack or your Den, which is a smaller group of around eight
 boys, all in the same grade.
 
-Cub Scouts is part of the national Boy Scout of America program
+Cub Scouts is part of the national Boy Scouts of America program
 and there is [information about the program](http://www.scouting.org/scoutsource/CubScouts.aspx)
 and [information for parents](http://www.scouting.org/scoutsource/CubScouts/Parents.aspx).
