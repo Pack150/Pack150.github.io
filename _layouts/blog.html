@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div id="page-content">
+  <div id="{% if page.sidebar %}content-wide{% else %}content-full{% endif %}">
+    <article>
+      {{ content }}
+    </article>
+  </div>
+  {% if page.sidebar %}
+  {% include sidebar.html %}
+  {% endif %}
+</div>
