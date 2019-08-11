@@ -62,4 +62,4 @@ and others, see changelog.
 
 ## License
 
-Unless specified otherwise, this project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](LICENSE.md).
+Unless specified otherwise, this project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
