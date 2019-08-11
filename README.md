@@ -39,7 +39,7 @@ Done! You can run the site locally with the following command:
 ```
 $ jekyll serve
 ```
-
+## Upstream Projects
 
 This is based on the [Scoutpack Wordpress Theme](http://handsomeweb.com/cubscouts/),
 converted to a [Jekyll](http://jekyllrb.com/) site by [Thaddeus Quintin](http://github.com/quiddle)
@@ -47,3 +47,19 @@ for [Pack 150](http://pack150.org).
 
 Fork [this repository](https://github.com/pack379/pack379.github.io/fork) 
 or the [original Pack 150 repository](https://github.com/Pack150/Pack150.github.io/fork) if you like!
+
+## Author
+
+**Thaddeus Quintin**
+- <https://github.com/Pack150/Pack150.github.io>
+- <https://github.com/quiddle>
+
+**Cameron King**
+- <https://github.com/pack379/pack379.github.io>
+- <https://github.com/ckxng>
+
+and others, see changelog.
+
+## License
+
+Unless specified otherwise, this project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](LICENSE.md).
