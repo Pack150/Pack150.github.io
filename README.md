@@ -1,4 +1,4 @@
-Pack 150, Chagrin Falls, Ohio
+Pack 379, Arlington, TX
 ============
 
 ## Development
@@ -45,4 +45,5 @@ This is based on the [Scoutpack Wordpress Theme](http://handsomeweb.com/cubscout
 converted to a [Jekyll](http://jekyllrb.com/) site by [Thaddeus Quintin](http://github.com/quiddle)
 for [Pack 150](http://pack150.org).
 
-[Fork this repository](https://github.com/Pack150/Pack150.github.io/fork) if you like!
+Fork [this repository](https://github.com/pack379/pack379.github.io/fork) 
+or the [original Pack 150 repository](https://github.com/Pack150/Pack150.github.io/fork) if you like!
