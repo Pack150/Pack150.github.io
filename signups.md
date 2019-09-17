@@ -1,9 +1,13 @@
 ---
 layout: page
 title: Signup For Pack Events
-permalink: /events/
+permalink: /signups/
 sidebar: false
 ---
+
+************
+
+## [2019-2020 Pack Registration](https://2019-2020-registration-80238.cheddarup.com)
 
 ************
 
