@@ -11,11 +11,11 @@ sidebar: false
 
 ************
 
-## [Rock the House](https://www.rocketmortgagefieldhouse.com/group/detail/boy-scouts)
+## [Rock the House - Find Tickets under _Boy Scout Council_ option](https://www.rocketmortgagefieldhouse.com/group/detail/boy-scouts)
 
-Select "Boy Scout Council" to look for tickets. This event is held during the afternoon of December 28 and capped off with a 7pm Monsters hockey game!
+This event is held during the afternoon of December 28 and capped off with a 7pm Monsters hockey game! Scroll down and use the _Boy Scout Council_ option to find tickets to the event!
 
-If your scout sold more than $650 you should have received and email with a link to claim your two free tickets. If you have questions please reach out to our Cubmaster!
+If your scout sold more than $650, you should have received and email with a link to claim two free tickets. If you have questions, please reach out to our Cubmaster!
 
 ************
 
