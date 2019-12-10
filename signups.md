@@ -11,9 +11,11 @@ sidebar: false
 
 ************
 
-## [Holidays at Camp](https://scoutingevent.com/440-Holidays)
+## [Rock the House](https://www.rocketmortgagefieldhouse.com/group/detail/boy-scouts)
 
-Register for the December 14, 2019 event at BEAUMONT SCOUT RESERVATION.
+Select "Boy Scout Council" to look for tickets. This event is held during the afternoon of December 28 and capped off with a 7pm Monsters hockey game!
+
+If your scout sold more than $650 you should have received and email with a link to claim your two free tickets. If you have questions please reach out to our Cubmaster!
 
 ************
 
