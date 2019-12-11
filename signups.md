@@ -8,6 +8,8 @@ sidebar: false
 
 ## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration.cheddarup.com)
 
+Celebrate the hard work of our popcorn sale!
+
 ************
 
 ## [Rock the House - Find Tickets under _Boy Scout Council_ option](https://www.rocketmortgagefieldhouse.com/group/detail/boy-scouts)
