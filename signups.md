@@ -6,7 +6,7 @@ sidebar: false
 ---
 ************
 
-## [RSVP—Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration.cheddarup.com)
+## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration.cheddarup.com)
 
 ************
 
