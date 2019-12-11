@@ -4,10 +4,9 @@ title: Signup For Pack Events
 permalink: /signups/
 sidebar: false
 ---
-
 ************
 
-## [2019-2020 Pack Registration Fee](https://2019-2020-registration-80238.cheddarup.com)
+## [RSVP—Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration.cheddarup.com)
 
 ************
 
@@ -26,3 +25,8 @@ Register for the January 1-2 event at Atlas Cinema Diamond Center in Mentor, Ohi
 Event runs from 8pm January 1 to 8am January 2nd. Movies run all night long! Attendees can bring sleeping bags with cots or blow up mattresses and sleep in the lobby when they can't stay up any longer. Personal items are at the discretion of individuals.
 
 Tentative Movie Schedule: Jumanji: The Next Level, Cats, Star Wars: The Rise of Skywyalker, Terminator: Dark Fate, Frozen 2. Others to be Announced!
+
+************
+
+## [2019-2020 Pack Registration Fee](https://2019-2020-registration-80238.cheddarup.com)
+
