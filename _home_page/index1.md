@@ -1,7 +1,7 @@
 ---
 title: Build Your Adventure!
 ---
-Every year, Cub Scouts work towards earning a new rank.
+Each year, Cub Scouts earn required and elective Adventures to attain a new rank.
 
 * Lion, Kindergarten
 * Tiger, First Grade
@@ -10,7 +10,6 @@ Every year, Cub Scouts work towards earning a new rank.
 * Webelos, Fourth Grade
 * Arrow of Light, Fifth Grade
 
-Cubs earn their rank by earning Adventures, some required and some elective.
-These are awarded at our monthly pack meetings to recognize their hard work.
+Adventures are awarded at our Pack meetings to recognize their hard work.
 
 [see all of the Cub Scout adventures](https://www.scouting.org/programs/cub-scouts/what-cub-scouts-earn/cub-scouting-adventures/)
