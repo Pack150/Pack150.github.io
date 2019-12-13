@@ -1,7 +1,8 @@
 ---
 title: Build Your Adventure!
 ---
-Each year, Cub Scouts earn required and elective Adventures to attain a new rank.
+Each year, Cub Scouts earn [required and elective Adventures](https://www.scouting.org/programs/cub-scouts/what-cub-scouts-earn/cub-scouting-adventures/)
+to attain a new rank.
 
 * Lion, Kindergarten
 * Tiger, First Grade
@@ -10,6 +11,4 @@ Each year, Cub Scouts earn required and elective Adventures to attain a new rank
 * Webelos, Fourth Grade
 * Arrow of Light, Fifth Grade
 
-Adventures are awarded at our Pack meetings to recognize their hard work.
-
-[see all of the Cub Scout adventures](https://www.scouting.org/programs/cub-scouts/what-cub-scouts-earn/cub-scouting-adventures/)
+Adventures are awarded at our monthly Pack meetings to recognize their hard work. Their new ranks are awarded at our end-of-year picnic in June.
