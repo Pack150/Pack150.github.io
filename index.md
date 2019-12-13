@@ -12,7 +12,7 @@ we get out and hike, but you can also look forward to camping
 in a tent, cooking your own meals on a campfire, building and
 racing a Pinewood Derby car and more! All of this is done with
 the Pack or your Den, which is a smaller group of around eight
-boys, all in the same grade.
+scouts, all in the same grade.
 
 Cub Scouts is part of the national Boy Scouts of America program
 and there is [information about the program](http://www.scouting.org/scoutsource/CubScouts.aspx)
