@@ -11,4 +11,4 @@ to attain a new rank.
 * Webelos, Fourth Grade
 * Arrow of Light, Fifth Grade
 
-Adventures are awarded at our monthly Pack meetings to recognize their hard work. Their new ranks are awarded at our end-of-year picnic in June.
+Adventures are awarded at our monthly Pack meetings. New ranks are awarded at our end-of-year picnic in June.
