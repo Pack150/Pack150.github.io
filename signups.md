@@ -6,27 +6,9 @@ sidebar: false
 ---
 ************
 
-## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration.cheddarup.com)
+## [Blue and Gold Banquet](https://blue-gold-banquet-2020.cheddarup.com)
 
-Celebrate the hard work of our popcorn sale!
-
-************
-
-## [Rock the House - Find Tickets under _Boy Scout Council_ option](https://www.rocketmortgagefieldhouse.com/group/detail/boy-scouts)
-
-This event is held during the afternoon of December 28 and capped off with a 7pm Monsters hockey game! Scroll down and use the _Boy Scout Council_ option to find tickets to the event!
-
-If your scout sold more than $650, you should have received and email with a link to claim two free tickets. If you have questions, please reach out to our Cubmaster!
-
-************
-
-## [Silver Screen Overnighter](https://scoutingevent.com/440-SilverScreenOvernighters)
-
-Register for the January 1-2 event at Atlas Cinema Diamond Center in Mentor, Ohio.
-
-Event runs from 8pm January 1 to 8am January 2nd. Movies run all night long! Attendees can bring sleeping bags with cots or blow up mattresses and sleep in the lobby when they can't stay up any longer. Personal items are at the discretion of individuals.
-
-Tentative Movie Schedule: Jumanji: The Next Level, Cats, Star Wars: The Rise of Skywyalker, Terminator: Dark Fate, Frozen 2. Others to be Announced!
+Pack 150's Blue & Gold Banquet is an annual event to celebrate another year of Cub Scouting, to recognize the works of our children, and to thank the leaders of our Pack. This is a free event, but you must sign up to attend!
 
 ************
 
