@@ -1,4 +1,4 @@
 ---
 permalink: /derby-rules/
-redirect_to: http://www.pack150.org/assets/files/Pinewood-Derby-Rules.pdf
+redirect_to: http://www.pack150.org/assets/files/LEC-Pinewood-Derby-Rules-2020.pdf
 ---
