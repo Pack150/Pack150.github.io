@@ -6,9 +6,11 @@ sidebar: false
 ---
 ************
 
-## [Blue and Gold Banquet](https://blue-gold-banquet-2020.cheddarup.com)
+## [Spring Campout](https://spring-overnighter-2020.cheddarup.com)
 
-Pack 150's Blue & Gold Banquet is an annual event to celebrate another year of Cub Scouting, to recognize the works of our children, and to thank the leaders of our Pack. This is a free event, but you must sign up to attend!
+Saturday, May 2—3
+
+Pack 150 is attending the Lake Erie Council Spring Cub Overnighter! For details and signup, click through!
 
 ************
 
