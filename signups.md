@@ -18,7 +18,7 @@ Wednesday, June 24 - Saturday, June 27
 
 Geared towards all ages, (entering 1st-5th in fall 2020), this is the summer adventure that Cubs dream of! Scouts entering 4th and 5th grade should consider Webelos Exploration camp (see below), for an adventure specifically geared towards their ability.
 
-Check out (details at the Council Web Page)[https://lecbsa.org/adventure-camp], but come back here to register with Pack 150! Early Bird Pricing ends on May 1.
+Check out [details at the Council Web Page](https://lecbsa.org/adventure-camp), but come back here to register with Pack 150! Early Bird Pricing ends on May 1.
 
 ************
 
@@ -30,7 +30,7 @@ Pack 150 Webelos are heading to Webelos Exploration Camp! This is a summer adven
 
 Early Bird pricing continues until May 1, so get signed up today!
 
-Check out (details at the Council Web Page)[https://lecbsa.org/webelos-resident-camp], but come back here to register with Pack 150! Early Bird Pricing ends on May 1.
+Check out [details at the Council Web Page](https://lecbsa.org/webelos-resident-camp), but come back here to register with Pack 150! Early Bird Pricing ends on May 1.
 
 
 ************
