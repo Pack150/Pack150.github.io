@@ -6,11 +6,9 @@ sidebar: false
 ---
 ************
 
-## [Spring Campout](https://spring-overnighter-2020.cheddarup.com)
+## Spring Campout
 
-Saturday, May 2—3
-
-Pack 150 is attending the Lake Erie Council Spring Cub Overnighter! For details and signup, click through!
+Our spring campout has been cancelled.
 
 ************
 
