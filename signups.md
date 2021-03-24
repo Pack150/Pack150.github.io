@@ -8,7 +8,6 @@ sidebar: false
 
 ************
 
-## [2020-21 Pack Registration Fee](https://Pack150-20-21-registration.cheddarup.com)
+## [2021 Pinewood Derby](https://pack150-derby-2021.cheddarup.com)
 
-Pay your annual dues to confirm that your scout will participate in the coming year. If your scout will NOT be participating, please select the Not Participating, so we can plan accordingly. 
-
+Start your engines! Signup for the 2021 Pinewood Derby to be held on May 15 or 22 (weather dependent). In order to get your car kit, scouts MUST be registered. Sibling cars and extra kits are also available.
