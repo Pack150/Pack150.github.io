@@ -8,6 +8,6 @@ sidebar: false
 
 ************
 
-## [2021 Pinewood Derby](https://pack150-derby-2021.cheddarup.com)
+## [Summer Family Camp](https://lecbsa.org/familycamping)
 
-Start your engines! Signup for the 2021 Pinewood Derby to be held on May 15 or 22 (weather dependent). In order to get your car kit, scouts MUST be registered. Sibling cars and extra kits are also available.
+Weekend Family Camps are available throughout the summer! Join Pack 150 at the July 30-August 1 event at Beaumont or enjoy any of the other weekends of camping! Registration details are at the above link.
