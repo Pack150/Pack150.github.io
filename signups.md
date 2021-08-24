@@ -8,6 +8,5 @@ sidebar: false
 
 ************
 
-## [Summer Family Camp](https://lecbsa.org/familycamping)
-
-Weekend Family Camps are available throughout the summer! Join Pack 150 at the July 30-August 1 event at Beaumont or enjoy any of the other weekends of camping! Registration details are at the above link.
+## [Pay 2021-22 Pack Dues](https://pack-150-registration-2021-22.cheddarup.com)
+Click the above link and add one _Returning Scout Registration_ for each Cub Scout in your family. Make sure to fill in the correct answers when prompted.
