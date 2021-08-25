@@ -2,6 +2,9 @@
 layout: page
 title: Join Our Pack!
 permalink: /join/
+redirect_from:
+  - /JOIN
+  - /Join
 sidebar: false
 ---
 
