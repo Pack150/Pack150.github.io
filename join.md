@@ -6,9 +6,9 @@ sidebar: false
 ---
 
 
-> **Date:** Tuesday, August 31
-> **Time:** 6:30-8:00pm
-> **Location:** South Russell Park Pavilion on Bell St.
+> **Date:** Tuesday, August 31  
+> **Time:** 6:30-8:00pm  
+> **Location:** South Russell Park Pavilion on Bell St.  
 >
 > Pack leaders will be on hand to answer questions about Cub Scouts and to help get your family signed up!
 >
