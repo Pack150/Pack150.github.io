@@ -14,7 +14,7 @@ sidebar: false
 >
 > On Facebook? Like [our page](https://facebook.com/ChagrinPack150) and share our [Join Night Event](https://fb.me/e/2JsuQiace).
 >
-> [Download a PDF event flyer](/assests/files/Pack150JoinNight-2020.pdf).
+> [Download a PDF event flyer](/assets/files/Pack150JoinNight-2020.pdf).
 
 ************
 ## Step 1: [Fill Out Application](https://my.scouting.org/VES/OnlineReg/1.0.0/?&tu=UF-MB-440paa0150)
