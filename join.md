@@ -9,7 +9,7 @@ sidebar: false
 ---
 
 ************
-## Join Night 2020!
+## Join Night 2021!
 
 > **Date:** Tuesday, August 31  
 > **Time:** 6:30-8:00pm  
