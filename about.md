@@ -12,5 +12,4 @@ achievements. Dens meet more often, at the convenience of the
 families involved. Every month we hold or attend a fun event for the whole Pack!
 
 Interested in joining? Want more information?
-Our [Cubmaster](mailto:cubmaster@pack150.org) would love
-to hear from you!
+[Reach out to our Cubmaster!](https://www.Pack150.org/info)

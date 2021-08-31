@@ -11,9 +11,9 @@ sidebar: false
 ************
 ## Join Night 2021!
 
-> **Date:** Tuesday, August 31  
-> **Time:** 6:30-8:00pm  
-> **Location:** South Russell Park Pavilion on Bell St.  
+> **Date:** Tuesday, August 31
+> **Time:** 6:30-8:00pm
+> **Location:** South Russell Park Pavilion on Bell St.
 >
 > Pack leaders will be on hand to answer questions about Cub Scouts and to help get your family signed up!
 >
@@ -36,4 +36,4 @@ Pack Dues ($160) cover registration fees for 2022, along with covering basic nee
 Now you can join in the fun of Cub Scouts!
 
 ## Questions?
-If you have any questions, do not hesitate to [reach out to our Cubmaster](mailto:Cubmaster@Pack150.org?subject=Questions%20about%20joining%Pack%20150).
+If you have any questions, do not hesitate to [reach out to our Cubmaster](https://www.Pack150.org/info).
