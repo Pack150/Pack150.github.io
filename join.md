@@ -9,19 +9,6 @@ sidebar: false
 ---
 
 ************
-## Join Night 2021!
-
-> **Date:** Tuesday, August 31
-> **Time:** 6:30-8:00pm
-> **Location:** South Russell Park Pavilion on Bell St.
->
-> Pack leaders will be on hand to answer questions about Cub Scouts and to help get your family signed up!
->
-> On Facebook? Like [our page](https://facebook.com/ChagrinPack150) and share our [Join Night Event](https://fb.me/e/2JsuQiace).
->
-> [Download a PDF event flyer](/assets/files/Pack150JoinNight-2020.pdf).
-
-************
 # How to Join Pack 150
 
 ## Step 1: [Fill Out Application](https://my.scouting.org/VES/OnlineReg/1.0.0/?&tu=UF-MB-440paa0150)
