@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Our Pack!
+title: How to Join Pack 150!
 permalink: /join/
 redirect_from:
   - /JOIN
@@ -9,8 +9,6 @@ sidebar: false
 ---
 
 ************
-# How to Join Pack 150
-
 ## Step 1: [Fill Out Application](https://my.scouting.org/VES/OnlineReg/1.0.0/?&tu=UF-MB-440paa0150)
 Click on the above link and follow the directions to fill out an application. Since you're new, you'll start by creating a BSA ID for yourself. We recommend using the "Login with Google" or "Login with Apple" options to save yourself the headache of yet another password. Your BSA ID will be used when helping your scout track their progress!
 
