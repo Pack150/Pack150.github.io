@@ -6,6 +6,10 @@ sidebar: false
 ---
 
 ************
+## [Spring Canoe Outing](https://pack-canoe-outing-2022.cheddarup.com)
+Click the above link for more details about our Spring Canoe outing, along with payment and registration options.
+
+
 ## [Adult Race Registration](https://pinewood-derby-adults-2022.cheddarup.com)
 Click the above link and add one _Adult Race Registration_ for each Adult racer you are paying for. Make sure to fill in the correct answers when prompted.
 
