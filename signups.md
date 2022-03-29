@@ -6,7 +6,10 @@ sidebar: false
 ---
 
 ************
-## [Spring Canoe Outing](https://pack-canoe-outing-2022.cheddarup.com)
+## [Spring Overnighter, April 30](https://spring-overnighter-2022.cheddarup.com)
+Our spring overnighter will be Pack 150's return to camp! Use the above link to sign up your family!
+
+## [Spring Canoe Outing, May 21](https://pack-canoe-outing-2022.cheddarup.com)
 Click the above link for more details about our Spring Canoe outing, along with payment and registration options.
 
 
