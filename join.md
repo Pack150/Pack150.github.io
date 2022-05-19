@@ -21,4 +21,4 @@ Pack Dues ($160) cover registration fees for 2022, along with covering basic nee
 Now you can join in the fun of Cub Scouts!
 
 ## Questions?
-If you have any questions, do not hesitate to [reach out to our Cubmaster](https://www.Pack150.org/info).
+If you have any questions, do not hesitate to [reach out to our Cubmaster](https://Pack150.org/info).

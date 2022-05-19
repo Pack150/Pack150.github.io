@@ -1,4 +1,4 @@
 ---
 permalink: /labels/
-redirect_to: http://www.pack150.org/scoutbook-award-labels/
+redirect_to: https://pack150.org/scoutbook-award-labels/
 ---
