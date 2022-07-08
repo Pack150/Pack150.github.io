@@ -6,16 +6,10 @@ sidebar: false
 ---
 
 ************
-## [Spring Overnighter, April 30](https://spring-overnighter-2022.cheddarup.com)
-Our spring overnighter will be Pack 150's return to camp! Use the above link to sign up your family!
+## [Captains Game Overnighter, August 13](https://pack-150-captains-game-2022.cheddarup.com)
+Come watch the Lake County Captains play ball, watch the fireworks, and then pitch your tent right in the outfield!
 
-## [Spring Canoe Outing, May 21](https://pack-canoe-outing-2022.cheddarup.com)
-Click the above link for more details about our Spring Canoe outing, along with payment and registration options.
-
-
-## [Adult Race Registration](https://pinewood-derby-adults-2022.cheddarup.com)
-Click the above link and add one _Adult Race Registration_ for each Adult racer you are paying for. Make sure to fill in the correct answers when prompted.
-
-
+<!--
 ## [Pay 2021-22 Pack Dues](https://pack-150-registration-2021-22.cheddarup.com)
 Click the above link and add one _Scout Registration_ for each Cub Scout in your family. Make sure to fill in the correct answers when prompted.
+-->
