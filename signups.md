@@ -14,7 +14,7 @@ Join us at Cub Haunted for a spooky time!
 -->
 
 
-##[Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration-2022.cheddarup.com)
+## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration-2022.cheddarup.com)
 Please RSVP for our December 6th Skating Party and Pack Meeting.
 
 
