@@ -6,7 +6,9 @@ sidebar: false
 ---
 
 ************
+<!--
 There are no currently open signups.
+-->
 
 <!--
 ## [Cub Haunted, Oct 7-9, 2022](https://cub-haunted-weekend-2022.cheddarup.com)
