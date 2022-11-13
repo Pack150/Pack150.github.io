@@ -22,3 +22,9 @@ Please RSVP for our December 6th Skating Party and Pack Meeting.
 
 ## [Pay 2023 Pack Dues](https://pack-150-registration-for-2023.cheddarup.com)
 Click the above link and add one _Scout Registration_ for each Cub Scout in your family. Make sure to fill in the correct answers when prompted.
+
+## [USS Little Rock - April 2023](https://pack-150-uss-little-rock-spring-2023.cheddarup.com)
+Click the above link and add for each Cub Scout, Adult, and Sibling in your family. 
+
+
+
