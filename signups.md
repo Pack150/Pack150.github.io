@@ -19,7 +19,7 @@ Join us at Cub Haunted for a spooky time!
 Please RSVP for our December 6th Skating Party and Pack Meeting.
 -->
 
-## [Climbing at Kendall Cliffs](https://pack1-150-2023-kendal-cliffs.cheddarup.com))
+## [Climbing at Kendall Cliffs](https://pack1-150-2023-kendal-cliffs.cheddarup.com)
 Click the above link and add one _Registered Scout Attendee_ for each Cub Scout or leader in your family. Don't forget the waiver!
 
 ## [Pay 2023 Pack Dues](https://pack-150-registration-for-2023.cheddarup.com)
