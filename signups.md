@@ -22,10 +22,10 @@ Please RSVP for our December 6th Skating Party and Pack Meeting.
 ## [Climbing at Kendall Cliffs](https://pack1-150-2023-kendal-cliffs.cheddarup.com)
 Click the above link and add one _Registered Scout Attendee_ for each Cub Scout or leader in your family. Don't forget the waiver!
 -->
-<!--
+
 ## [2023 Blue and Gold](https://pack150-blue-gold-banquet-2023.cheddarup.com)
 Click the above link and add one attendee for each member of your family.
--->
+
 ## [Pay 2023 Pack Dues](https://pack-150-registration-for-2023.cheddarup.com)
 Click the above link and add one _Scout Registration_ for each Cub Scout in your family. Make sure to fill in the correct answers when prompted.
 
