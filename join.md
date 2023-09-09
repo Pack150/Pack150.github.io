@@ -18,7 +18,7 @@ Click on the above link and follow the directions to fill out an application. Si
 As part of your application, you will pay National and Council fees for one year (about $130), so have your credit card handy! Once your application is complete, our Pack Leaders will approve your application and your scout will be ready to go!
 
 
-## Step 2b: Pay PAck Dues
+## Step 2b: Pay Pack Dues
 <!-- 
 [Pay Pack Dues](https://pack-150-registration-2021-22.cheddarup.com)
 -->
