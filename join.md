@@ -19,14 +19,14 @@ As part of your application, you will pay National and Council fees for one year
 
 
 ## Step 2b: Pay PAck Dues
-<! -- 
+<!-- 
 [Pay Pack Dues](https://pack-150-registration-2021-22.cheddarup.com)
- -->
+-->
 Pack Dues (To be announced) cover registration fees for 2023/24, along with covering basic needs of Pack 150. 
 Collection will be via cheddarup.  Watch this space for updates.  
-<! -- 
+<!-- 
 Click on the above link, then add _Cub Scout Registration_ to your cart. Answer the questions, check out, and you're all paid up!
- -->
+-->
 
 ## Step 3: Have fun!
 Now you can join in the fun of Cub Scouts!
