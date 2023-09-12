@@ -12,7 +12,7 @@ There are no currently open signups.
 
 
 <!--
-## [Cub Haunted, Oct 7-9, 2022](https://cub-haunted-weekend-2022.cheddarup.com)
+## [Cub Haunted, Oct 20-22, 2023](https://2023-cub-haunted-weekend.cheddarup.com)
 Join us at Cub Haunted for a spooky time!
 -->
 <!--
