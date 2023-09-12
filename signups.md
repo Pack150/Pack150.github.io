@@ -7,7 +7,8 @@ sidebar: false
 
 ************
 There are no currently open signups.
-Coming soon - Join us at Cub Haunted for a spooky time!
+
+##Coming soon - Join us at Cub Haunted, Oct 20-22 for a spooky time!
 
 
 <!--
