@@ -6,15 +6,16 @@ sidebar: false
 ---
 
 ************
+<--
 There are no currently open signups.
+-->
 
-##Coming soon - Join us at Cub Haunted, Oct 20-22 for a spooky time!
 
 
-<!--
 ## [Cub Haunted, Oct 20-22, 2023](https://2023-cub-haunted-weekend.cheddarup.com)
 Join us at Cub Haunted for a spooky time!
--->
+
+
 <!--
 ## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration-2022.cheddarup.com)
 Please RSVP for our December 6th Skating Party and Pack Meeting.
