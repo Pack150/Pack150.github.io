@@ -6,7 +6,7 @@ sidebar: false
 ---
 
 ************
-<--
+<!--
 There are no currently open signups.
 -->
 
