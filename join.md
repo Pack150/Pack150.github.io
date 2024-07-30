@@ -32,4 +32,4 @@ Click on the above link, then add _Cub Scout Registration_ to your cart. Answer 
 Now you can join in the fun of Cub Scouts!
 
 ## Questions?
-If you have any questions, do not hesitate to [reach out to our Cubmaster](https://Pack150.org/info).
+You can [request information via scoutbook](https://Pack150.org/info), or [reach out to our Cubmaster](mailto:cubmaster@pack150.org).
