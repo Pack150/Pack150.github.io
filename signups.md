@@ -10,18 +10,18 @@ sidebar: false
 <!--
 There are no currently open signups.
 -->
-<!--
-## [Cub Haunted, Oct 20-22, 2023](https://2023-cub-haunted-weekend.cheddarup.com)
+
+## [Cub Haunted, Oct 4-6, 2024](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-50492552-cubhaunted)
 Join us at Cub Haunted for a spooky time!
--->
+
 <!--
 ## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration-2022.cheddarup.com)
 Please RSVP for our December 6th Skating Party and Pack Meeting.
 -->
-
+<!--
 ## [Climbing at Kendall Cliffs](https://2024-jan-20-rock-climbing-at-kendall-cliffs.cheddarup.com)
 Click the above link and add one _Registered Scout Attendee_ for each Cub Scout or leader in your family. Don't forget the waiver!
-
+-->
 <!--
 ## [2023 Blue and Gold](https://pack150-blue-gold-banquet-2023.cheddarup.com)
 Click the above link and add one attendee for each member of your family.
