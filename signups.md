@@ -14,7 +14,7 @@ There are no currently open signups.
 ## [Cub Haunted, Oct 4-6, 2024](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-50492552-cubhaunted)
 Join us at Cub Haunted for a spooky time!
 
-## Greater Cleveland Food Bank, Nov 25, 2024 from 6-8PM
+## Greater Cleveland Food Bank, Nov 25, 2024 from 6-8PM; Please do both signups.  
 1. [Signup Genius - So we, Pack 150, know](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-51484916-greater)
 2. [Signup with Food Bank - They need to know you're coming.](https://cerv.is/0136gjg393f)
 
