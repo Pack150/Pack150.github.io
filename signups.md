@@ -24,9 +24,10 @@ There are no currently open signups.
 Please RSVP for our December 6th Skating Party and Pack Meeting.
 -->
 
+<!--
 ## [Climbing at Kendall Cliffs](https://2024-jan-20-rock-climbing-at-kendall-cliffs.cheddarup.com)
 Click the above link and add one _Registered Scout Attendee_ for each Cub Scout or leader in your family. Don't forget the waiver!
-
+-->
 
 <!--
 ## [2023 Blue and Gold](https://pack150-blue-gold-banquet-2023.cheddarup.com)
