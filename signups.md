@@ -15,6 +15,8 @@ Join us at Cub Haunted for a spooky fun time!
 
 
 ## Greater Cleveland Food Bank, Nov 25, 2024 from 6-8PM; Please do both signups.  
+  -Please join us for our November Service Event at the Greater Cleveland Foodbank on November 25th from 6-8PM. Scouts and a caregiver will help the Food Bank sort through and repackage incoming perishable and non-perishable food donations which are later distributed to schools, pantries, and shelters throughout Greater Cleveland. Attendees must be 6 years of age to participate.
+  
 1. [Signup Genius - So we, Pack 150, know](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-51484916-greater)
 2. [Signup with Food Bank - They need to know you're coming.](https://cerv.is/0136gjg393f)
 
