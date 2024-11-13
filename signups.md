@@ -6,11 +6,12 @@ sidebar: false
 ---
 
 ************
-## [Cub Haunted, Oct 4-6, 2024](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-50492552-cubhaunted)
-Join us at Cub Haunted for a spooky fun time!
+## Roller Skating Popcorn Celebration   https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-53218027-pack
+Please RSVP for our December 3rd Skating Party and Pack Meeting, 5:30pm - 7:30pm.  Pizza & drinks will be provided!
+The Pack meeting will start at 6pm.
 
 <!--
-[Last year's flyer.](./assets/files/Cub_Haunted_2023.pdf)
+
 -->
 
 
@@ -20,12 +21,16 @@ Join us at Cub Haunted for a spooky fun time!
 1. [Signup Genius - So we, Pack 150, know](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-51484916-greater)
 2. [Signup with Food Bank - They need to know you're coming.](https://cerv.is/0136gjg393f)
 
-
-
 <!--
+
+
 There are no currently open signups.
 -->
+ [Cub Haunted, Oct 4-6, 2024](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-50492552-cubhaunted)
+Join us at Cub Haunted for a spooky fun time!
 
+<!--
+[Last year's flyer.](./assets/files/Cub_Haunted_2023.pdf)
 <!--
 ## [Roller Skating Popcorn Celebration](https://pack-150-roller-skating-popcorn-celebration-2022.cheddarup.com)
 Please RSVP for our December 6th Skating Party and Pack Meeting.
