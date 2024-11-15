@@ -6,9 +6,11 @@ sidebar: false
 ---
 
 ************
-## Roller Skating Popcorn Celebration   https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-53218027-pack
+## Roller Skating Popcorn Celebration   
 Please RSVP for our December 3rd Skating Party and Pack Meeting, 5:30pm - 7:30pm.  Pizza & drinks will be provided!
 The Pack meeting will start at 6pm.
+
+[Roller Skating Signup](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-53218027-pack)
 
 <!--
 
@@ -25,10 +27,10 @@ The Pack meeting will start at 6pm.
 
 
 There are no currently open signups.
--->
+
  [Cub Haunted, Oct 4-6, 2024](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-50492552-cubhaunted)
 Join us at Cub Haunted for a spooky fun time!
-
+-->
 <!--
 [Last year's flyer.](./assets/files/Cub_Haunted_2023.pdf)
 <!--
