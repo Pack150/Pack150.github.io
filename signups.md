@@ -6,22 +6,16 @@ sidebar: false
 ---
 
 ************
-## Roller Skating Popcorn Celebration   
-Please RSVP for our December 3rd Skating Party and Pack Meeting, 5:30pm - 7:30pm.  Pizza & drinks will be provided!
-The Pack meeting will start at 6pm.
+## Blue and Gold Lunch   
+Come help us celebrate the Birthday of Scouting!  Come celebrate with us for lunch, fun, and advancement!  This is open to all family members and we would love to see you all there!
 
-[Roller Skating Signup](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-53218027-pack)
+[Blue and Gold Lunch Signup](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-54370315-blue)
 
 <!--
 
 -->
 
 
-## Greater Cleveland Food Bank, Nov 25, 2024 from 6-8PM; Please do both signups.  
-  -Please join us for our November Service Event at the Greater Cleveland Foodbank on November 25th from 6-8PM. Scouts and a caregiver will help the Food Bank sort through and repackage incoming perishable and non-perishable food donations which are later distributed to schools, pantries, and shelters throughout Greater Cleveland. Attendees must be 6 years of age to participate.
-  
-1. [Signup Genius - So we, Pack 150, know](https://www.signupgenius.com/go/10C0B45AEAE22A6F5C07-51484916-greater)
-2. [Signup with Food Bank - They need to know you're coming.](https://cerv.is/0136gjg393f)
 
 <!--
 
