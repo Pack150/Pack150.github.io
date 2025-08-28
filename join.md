@@ -10,7 +10,7 @@ sidebar: false
 
 ************
 ## Step 1: Meet the Pack!
-Please come meet Pack 150 at 6:00PM on Wednesday September 10th at the South Russell Park Pavillion, 1000 Bell Road.
+Please come meet Pack 150 at 6:00PM on Tuesday September 9th at the South Russell Park Pavillion, 1000 Bell Road.
 
 ## Step 2a: [Fill Out Application](https://my.scouting.org/VES/OnlineReg/1.0.0/?&tu=UF-MB-440paa0150)
 Click on the above link and follow the directions to fill out an application. Since you're new, you'll start by creating a BSA ID for yourself. We recommend using the "Login with Google" or "Login with Apple" options to save yourself the headache of yet another password. Your BSA ID will be used when helping your scout track their progress!
